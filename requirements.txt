@@ -1,0 +1,10 @@
+sentencepiece
+touch
+tf-keras
+google-generativeai
+python-dotenv
+langchain==0.2.5
+langchain-community==0.2.5
+chromadb
+faiss-cpu
+langchain_google_genai
